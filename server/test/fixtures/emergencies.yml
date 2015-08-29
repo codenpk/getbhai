@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  location_lat: MyString
+  location_lon: MyString
+  location_url: MyString
+  status: false
+
+two:
+  location_lat: MyString
+  location_lon: MyString
+  location_url: MyString
+  status: false
